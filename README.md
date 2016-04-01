@@ -7,7 +7,7 @@
     	}
 	}
 	
-	compile('com.github.beiliubei:LoadingAndRetryManager:v1.2')
+	compile('com.github.beiliubei:LoadingAndRetryManager:v1.3')
 
 
 无缝为Activity、Fragment、任何View设置等待（loading)、重试(retry)、无数据(empty)页面。
