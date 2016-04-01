@@ -2,12 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.zhy.base.loadandretry" >
 
-    <application
-        android:allowBackup="true"
-        android:name=".test.MyApplication"
-        android:icon="@mipmap/ic_launcher"
-        android:label="@string/app_name"
-        android:theme="@style/AppTheme" >
+    <application>
         <activity
             android:name=".test.CategoryActivity"
             android:label="@string/app_name" >
