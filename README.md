@@ -1,5 +1,15 @@
 # LoadingAndRetryManager
 
+## 增加gradle支持
+	allprojects {
+    repositories {
+        	maven { url "https://jitpack.io" }
+    	}
+	}
+	
+	compile('com.github.beiliubei:LoadingAndRetryManager:v1.0')
+
+
 无缝为Activity、Fragment、任何View设置等待（loading)、重试(retry)、无数据(empty)页面。
 
 
